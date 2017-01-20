@@ -1,0 +1,7 @@
+.settings/
+20160208_*.jpg
+20160208_*.mp4
+Debug/
+.cproject
+.project
+lib/
